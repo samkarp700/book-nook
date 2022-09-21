@@ -39,3 +39,12 @@ npm start
 - Sam Karpovck - [samkarp700](https://github.com/samkarp700)<br />
 - Mary Paul - [marymc13](https://github.com/marymc13)<br />
 - Boris Habimana - [Borishabimana773](https://github.com/Borishabimana773)
+
+## ScreenShots from  the site: 
+(https://user-images.githubusercontent.com/105761973/191387213-504851d4-dd46-48f1-9f5e-2ed8220e8461.png)
+
+(https://user-images.githubusercontent.com/105761973/191387236-3c4219cf-f871-4836-9d8f-5b768cc01c07.png)
+
+(https://user-images.githubusercontent.com/105761973/191387247-56d80b73-9073-4bd4-880e-b93fd4e5c509.png)
+
+
