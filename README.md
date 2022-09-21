@@ -41,10 +41,8 @@ npm start
 - Boris Habimana - [Borishabimana773](https://github.com/Borishabimana773)
 
 ## ScreenShots from  the site: 
-(https://user-images.githubusercontent.com/105761973/191387213-504851d4-dd46-48f1-9f5e-2ed8220e8461.png)
+![Screen Shot 2022-09-20 at 8 17 57 PM](https://user-images.githubusercontent.com/105761973/191387597-f877118e-636e-4546-8efd-79a6bccb5e42.png)
 
-(https://user-images.githubusercontent.com/105761973/191387236-3c4219cf-f871-4836-9d8f-5b768cc01c07.png)
+![Screen Shot 2022-09-20 at 8 18 07 PM](https://user-images.githubusercontent.com/105761973/191387602-80e0f46b-0ce9-4ebf-ad8a-4c3fb44ccf84.png)
 
-(https://user-images.githubusercontent.com/105761973/191387247-56d80b73-9073-4bd4-880e-b93fd4e5c509.png)
-
-
+![Screen Shot 2022-09-20 at 8 19 10 PM](https://user-images.githubusercontent.com/105761973/191387615-8aded240-9d2f-414f-9441-30cf2bd72bf8.png)
